@@ -14,10 +14,17 @@ Site institucional de cafeteria fictícia desenvolvido com HTML, CSS e Bootstrap
 
 ## Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- Bootstrap 5
-- Google Fonts
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Fonts" width="40" height="40"/>
+</p>
+
+- **HTML5**
+- **CSS3**
+- **Bootstrap 5**
+- **Google Fonts**
 
 ## Estrutura de Pastas
 
@@ -42,6 +49,7 @@ Site institucional de cafeteria fictícia desenvolvido com HTML, CSS e Bootstrap
    git clone https://github.com/Fer1pe/cafe_web.git
    ```
 2. Abra o arquivo `index.html` em seu navegador.
+3. Para publicar online, utilize plataformas como GitHub Pages, Netlify ou Vercel.
 
 ## Licença
 
